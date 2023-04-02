@@ -1,6 +1,5 @@
 # problem-solving
 
-Use recursion to solve the following problems:
 
 
 * Implement a function that returns the minimum element in a stack in constant time complexity.
@@ -10,6 +9,7 @@ Use recursion to solve the following problems:
 * Implement a Queue using 2 stacks s1 and s2.
 
 
+Use recursion to solve the following problems:
 
 * Fibonacci Series
 
